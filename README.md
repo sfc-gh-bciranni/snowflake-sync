@@ -18,6 +18,9 @@ Stores in a folder structure.
 
 Usage:
 
+Currently only supported to
+- Provide Connection via Snowflake Connections `.toml` file.
+
 ```bash
 python fetch_snowflake_objects.py --connection my_connection
 ```
