@@ -7,11 +7,12 @@
 Sync Snowflake object DDLs and Metadata to a local file directory as a starting point for a CI/CD integration.
 
 Pulls DDL and Metadata from `show` command for:
-    - TABLES
-    - VIEWS
-    - STAGES
-    - FUNCTIONS
-    - PROCEDURES
+
+- TABLES
+- VIEWS
+- STAGES
+- FUNCTIONS
+- PROCEDURES
 
 Stores in a folder structure.
 
