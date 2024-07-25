@@ -1,3 +1,6 @@
+# exclude accounts directory - remove this in production
+accounts/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
